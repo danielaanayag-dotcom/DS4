@@ -1,1 +1,5 @@
-packages/
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Laboratorio16/.vs/Laboratorio16
