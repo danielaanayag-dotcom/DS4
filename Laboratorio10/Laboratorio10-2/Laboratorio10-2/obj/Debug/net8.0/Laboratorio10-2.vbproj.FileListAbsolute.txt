@@ -1,0 +1,15 @@
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\bin\Debug\net8.0\Laboratorio10-2.exe
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\bin\Debug\net8.0\Laboratorio10-2.deps.json
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\bin\Debug\net8.0\Laboratorio10-2.runtimeconfig.json
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\bin\Debug\net8.0\Laboratorio10-2.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\bin\Debug\net8.0\Laboratorio10-2.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\obj\Debug\net8.0\Laboratorio10-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\obj\Debug\net8.0\Laboratorio10-2.AssemblyInfoInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\obj\Debug\net8.0\Laboratorio10-2.AssemblyInfo.vb
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\obj\Debug\net8.0\Laboratorio10-2.vbproj.CoreCompileInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\obj\Debug\net8.0\Laboratorio10-2.sourcelink.json
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\obj\Debug\net8.0\Laboratorio10-2.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\obj\Debug\net8.0\refint\Laboratorio10-2.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\obj\Debug\net8.0\Laboratorio10-2.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\obj\Debug\net8.0\Laboratorio10-2.genruntimeconfig.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio10\Laboratorio10-2\Laboratorio10-2\obj\Debug\net8.0\ref\Laboratorio10-2.dll
