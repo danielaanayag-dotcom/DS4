@@ -1,0 +1,15 @@
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\bin\Debug\net8.0\Laboratorio94.exe
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\bin\Debug\net8.0\Laboratorio94.deps.json
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\bin\Debug\net8.0\Laboratorio94.runtimeconfig.json
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\bin\Debug\net8.0\Laboratorio94.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\bin\Debug\net8.0\Laboratorio94.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\obj\Debug\net8.0\Laboratorio94.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\obj\Debug\net8.0\Laboratorio94.AssemblyInfoInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\obj\Debug\net8.0\Laboratorio94.AssemblyInfo.cs
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\obj\Debug\net8.0\Laboratorio94.csproj.CoreCompileInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\obj\Debug\net8.0\Laboratorio94.sourcelink.json
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\obj\Debug\net8.0\Laboratorio94.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\obj\Debug\net8.0\refint\Laboratorio94.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\obj\Debug\net8.0\Laboratorio94.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\obj\Debug\net8.0\Laboratorio94.genruntimeconfig.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio9\Laboratorio94\Laboratorio94\obj\Debug\net8.0\ref\Laboratorio94.dll
