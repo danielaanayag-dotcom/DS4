@@ -1,0 +1,15 @@
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\bin\Debug\net8.0\Laboratorio43.exe
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\bin\Debug\net8.0\Laboratorio43.deps.json
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\bin\Debug\net8.0\Laboratorio43.runtimeconfig.json
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\bin\Debug\net8.0\Laboratorio43.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\bin\Debug\net8.0\Laboratorio43.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\obj\Debug\net8.0\Laboratorio43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\obj\Debug\net8.0\Laboratorio43.AssemblyInfoInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\obj\Debug\net8.0\Laboratorio43.AssemblyInfo.cs
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\obj\Debug\net8.0\Laboratorio43.csproj.CoreCompileInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\obj\Debug\net8.0\Laboratorio43.sourcelink.json
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\obj\Debug\net8.0\Laboratorio43.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\obj\Debug\net8.0\refint\Laboratorio43.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\obj\Debug\net8.0\Laboratorio43.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\obj\Debug\net8.0\Laboratorio43.genruntimeconfig.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio4\Laboratorio43\obj\Debug\net8.0\ref\Laboratorio43.dll
