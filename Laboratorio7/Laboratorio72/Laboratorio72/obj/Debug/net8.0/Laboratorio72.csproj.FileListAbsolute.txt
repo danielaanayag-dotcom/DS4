@@ -1,0 +1,15 @@
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\bin\Debug\net8.0\Laboratorio72.exe
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\bin\Debug\net8.0\Laboratorio72.deps.json
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\bin\Debug\net8.0\Laboratorio72.runtimeconfig.json
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\bin\Debug\net8.0\Laboratorio72.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\bin\Debug\net8.0\Laboratorio72.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\obj\Debug\net8.0\Laboratorio72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\obj\Debug\net8.0\Laboratorio72.AssemblyInfoInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\obj\Debug\net8.0\Laboratorio72.AssemblyInfo.cs
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\obj\Debug\net8.0\Laboratorio72.csproj.CoreCompileInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\obj\Debug\net8.0\Laboratorio72.sourcelink.json
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\obj\Debug\net8.0\Laboratorio72.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\obj\Debug\net8.0\refint\Laboratorio72.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\obj\Debug\net8.0\Laboratorio72.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\obj\Debug\net8.0\Laboratorio72.genruntimeconfig.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio7\Laboratorio72\Laboratorio72\obj\Debug\net8.0\ref\Laboratorio72.dll
