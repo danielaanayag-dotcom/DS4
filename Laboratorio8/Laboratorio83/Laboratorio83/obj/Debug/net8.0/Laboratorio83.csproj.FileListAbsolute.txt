@@ -1,0 +1,15 @@
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\bin\Debug\net8.0\Laboratorio83.exe
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\bin\Debug\net8.0\Laboratorio83.deps.json
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\bin\Debug\net8.0\Laboratorio83.runtimeconfig.json
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\bin\Debug\net8.0\Laboratorio83.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\bin\Debug\net8.0\Laboratorio83.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\obj\Debug\net8.0\Laboratorio83.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\obj\Debug\net8.0\Laboratorio83.AssemblyInfoInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\obj\Debug\net8.0\Laboratorio83.AssemblyInfo.cs
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\obj\Debug\net8.0\Laboratorio83.csproj.CoreCompileInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\obj\Debug\net8.0\Laboratorio83.sourcelink.json
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\obj\Debug\net8.0\Laboratorio83.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\obj\Debug\net8.0\refint\Laboratorio83.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\obj\Debug\net8.0\Laboratorio83.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\obj\Debug\net8.0\Laboratorio83.genruntimeconfig.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio8\Laboratorio83\Laboratorio83\obj\Debug\net8.0\ref\Laboratorio83.dll
