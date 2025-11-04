@@ -1,0 +1,11 @@
+C:\Users\yisse\source\repos\DS4\Laboratorio12\Laboratorio12\bin\Debug\Laboratorio12.exe.config
+C:\Users\yisse\source\repos\DS4\Laboratorio12\Laboratorio12\bin\Debug\Laboratorio12.exe
+C:\Users\yisse\source\repos\DS4\Laboratorio12\Laboratorio12\bin\Debug\Laboratorio12.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.csproj.AssemblyReference.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.Form1.resources
+C:\Users\yisse\source\repos\DS4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.Properties.Resources.resources
+C:\Users\yisse\source\repos\DS4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.csproj.GenerateResource.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.csproj.CoreCompileInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.exe
+C:\Users\yisse\source\repos\DS4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio12\Laboratorio12\obj\Debug\Laboratorio12.exe.config
