@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7564B3D5-4D49-48B4-8A28-6AB3F246394E}|Laboratorio18-1\\Laboratorio18-1.csproj|c:\\users\\yisse\\source\\repos\\ds4\\laboratorio18\\laboratorio18-1\\laboratorio18-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7564B3D5-4D49-48B4-8A28-6AB3F246394E}|Laboratorio18-1\\Laboratorio18-1.csproj|solutionrelative:laboratorio18-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7564B3D5-4D49-48B4-8A28-6AB3F246394E}|Laboratorio18-1\\Laboratorio18-1.csproj|C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\laboratorio18-1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7564B3D5-4D49-48B4-8A28-6AB3F246394E}|Laboratorio18-1\\Laboratorio18-1.csproj|solutionrelative:laboratorio18-1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7564B3D5-4D49-48B4-8A28-6AB3F246394E}|Laboratorio18-1\\Laboratorio18-1.csproj|C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\laboratorio18-1\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7564B3D5-4D49-48B4-8A28-6AB3F246394E}|Laboratorio18-1\\Laboratorio18-1.csproj|solutionrelative:laboratorio18-1\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7564B3D5-4D49-48B4-8A28-6AB3F246394E}|Laboratorio18-1\\Laboratorio18-1.csproj|C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\laboratorio18-1\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7564B3D5-4D49-48B4-8A28-6AB3F246394E}|Laboratorio18-1\\Laboratorio18-1.csproj|solutionrelative:laboratorio18-1\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7564B3D5-4D49-48B4-8A28-6AB3F246394E}|Laboratorio18-1\\Laboratorio18-1.csproj|C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\laboratorio18-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7564B3D5-4D49-48B4-8A28-6AB3F246394E}|Laboratorio18-1\\Laboratorio18-1.csproj|solutionrelative:laboratorio18-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\Laboratorio18-1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Laboratorio18-1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\Laboratorio18-1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Laboratorio18-1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:25:41.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\Laboratorio18-1\\Views\\Access\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio18-1\\Views\\Access\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\Laboratorio18-1\\Views\\Access\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio18-1\\Views\\Access\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T23:37:11.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\Laboratorio18-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio18-1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\Laboratorio18-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Laboratorio18-1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T23:30:41.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\Laboratorio18-1\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Laboratorio18-1\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\Laboratorio18-1\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Laboratorio18-1\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:35:36.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\Laboratorio18-1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio18-1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\yisse\\source\\repos\\DS4\\Laboratorio18\\Laboratorio18-1\\Laboratorio18-1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Laboratorio18-1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:29:40.183Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

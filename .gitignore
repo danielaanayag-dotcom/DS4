@@ -2,4 +2,56 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/.vs/DS4/v17
+/Laboratorio1/.vs/Laboratorio1
+/Laboratorio2/.vs/Laboratorio2
+/Laboratorio21/.vs/Laboratorio21
+/Laboratorio 3/.vs/Laboratorio 3
+/Laboratorio 3/Laboratorio31/.vs
+/Laboratorio 3/Laboratorio32/.vs
+/Laboratorio 3/Laboratorio33/.vs/Laboratorio33
+/.vs
+/Laboratorio4/.vs/Laboratorio4
+/Laboratorio4/.vs/ProjectEvaluation
+/Laboratorio5/.vs/Laboratorio5
+/Laboratorio5/Laboratorio52/.vs/Laboratorio52
+/Laboratorio5/Laboratorio53/.vs/Laboratorio53
+/Laboratorio5/Laboratorio54/.vs/Laboratorio54
+/Laboratorio5/Laboratorio55/.vs/Laboratorio55
+/Laboratorio5/Laboratorio56/.vs/Laboratorio56
+/Laboratorio6/.vs/Laboratorio6
+/Laboratorio6/Laboratorio62/.vs/Laboratorio62
+/Laboratorio6/Laboratorio63/.vs/Laboratorio63
+/Laboratorio6/Laboratorio64/.vs/Laboratorio64
+/Laboratorio7/Laboratorio71/.vs/Laboratorio71
+/Laboratorio7/Laboratorio72/.vs/Laboratorio72
+/Laboratorio8/.vs/Laboratorio8
+/Laboratorio8/Laboratorio82/.vs/Laboratorio82
+/Laboratorio8/Laboratorio83/.vs/Laboratorio83
+/Laboratorio8/Laboratorio84/.vs/Laboratorio84
+/Laboratorio8/Laboratorio85/.vs/Laboratorio85
+/Laboratorio8/Laboratorio86/.vs/Laboratorio86
+/Laboratorio8/Laboratorio87/.vs/Laboratorio87
+/Laboratorio8/Laboratorio88/.vs/Laboratorio88
+/Laboratorio8/Laboratorio89/.vs/Laboratorio89
+/Laboratorio9/.vs/Laboratorio9
+/Laboratorio9/Laboratorio92/.vs/Laboratorio92
+/Laboratorio9/Laboratorio93/.vs/Laboratorio93
+/Laboratorio9/Laboratorio94/.vs/Laboratorio94
+/Laboratorio9/Laboratorio95/.vs/Laboratorio95
+/Laboratorio10/.vs/Laboratorio10
+/Laboratorio10/Laboratorio10-2/.vs/Laboratorio10-2
+/Laboratorio10/Laboratorio10-3/.vs/Laboratorio10-3
+/Laboratorio10/Laboratorio10-4/.vs/Laboratorio10-4
+/Laboratorio11/.vs/Laboratorio11
+/Laboratorio12/.vs/Laboratorio12
+/Laboratorio12/Laboratorio12-2/.vs/Laboratorio12-2
+/Laboratorio12/Laboratorio12-3/.vs/Laboratorio12-3
+/Laboratorio13/Laboratorio13/.vs/Laboratorio13
+/Laboratorio14/.vs/Laboratorio14
+/Laboratorio15/.vs/Laboratorio15
+/Laboratorio15/Laboratorio15-2/.vs/Laboratorio15-2
+/Laboratorio15/Laboratorio15-3/.vs/Laboratorio15-3
+/Laboratorio15/Laboratorio15-4/.vs/Laboratorio15-4
 /Laboratorio16/.vs/Laboratorio16
+/Laboratorio17/.vs/Laboratorio17

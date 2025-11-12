@@ -1,0 +1,15 @@
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\bin\Debug\net8.0\Laboratorio31.exe
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\bin\Debug\net8.0\Laboratorio31.deps.json
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\bin\Debug\net8.0\Laboratorio31.runtimeconfig.json
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\bin\Debug\net8.0\Laboratorio31.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\bin\Debug\net8.0\Laboratorio31.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\obj\Debug\net8.0\Laboratorio31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\obj\Debug\net8.0\Laboratorio31.AssemblyInfoInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\obj\Debug\net8.0\Laboratorio31.AssemblyInfo.cs
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\obj\Debug\net8.0\Laboratorio31.csproj.CoreCompileInputs.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\obj\Debug\net8.0\Laboratorio31.sourcelink.json
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\obj\Debug\net8.0\Laboratorio31.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\obj\Debug\net8.0\refint\Laboratorio31.dll
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\obj\Debug\net8.0\Laboratorio31.pdb
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\obj\Debug\net8.0\Laboratorio31.genruntimeconfig.cache
+C:\Users\yisse\source\repos\DS4\Laboratorio 3\Laboratorio31\Laboratorio31\obj\Debug\net8.0\ref\Laboratorio31.dll
